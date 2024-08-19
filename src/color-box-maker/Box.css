@@ -1,0 +1,14 @@
+.button {
+position: absolute;
+right:5px;
+top:0px;
+width:0.1px;
+color: rgb(6, 6, 6);
+font-weight: bold;
+background-color: transparent;
+border: 0cap;
+}
+
+.Box {
+  position:relative;
+}
